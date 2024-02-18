@@ -1,0 +1,5 @@
+C:\Users\Essisten\Source\WSUniversalLib\WSUniversalLib\bin\Release\WSUniversalLib.dll
+C:\Users\Essisten\Source\WSUniversalLib\WSUniversalLib\bin\Release\WSUniversalLib.pdb
+C:\Users\Essisten\Source\WSUniversalLib\WSUniversalLib\obj\Release\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Users\Essisten\Source\WSUniversalLib\WSUniversalLib\obj\Release\WSUniversalLib.dll
+C:\Users\Essisten\Source\WSUniversalLib\WSUniversalLib\obj\Release\WSUniversalLib.pdb
